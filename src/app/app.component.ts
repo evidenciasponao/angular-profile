@@ -11,4 +11,5 @@ export class AppComponent {
   public imageAngular = "assets/Logo.png"
   public imageTwitter = "assets/twitter.png"
   public imageGit = "assets/git.png" 
+  public imagePerfil = "assets/imagePerfil.jpg"
 }
