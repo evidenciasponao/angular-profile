@@ -1,0 +1,12 @@
+[build]
+  command="ng build"
+  publish="dist/angular-quickstart"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[plugins]]
+  package = "netlify-plugin-cypress"
+
