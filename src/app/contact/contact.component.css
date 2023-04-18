@@ -4,5 +4,7 @@ width: 290px;
 height: 290px;
 }
 .banner{
-image-background: "assets/codding.jpg"
+border-radius: 10%;
+width: 290px;
+height: 290px;
 }
