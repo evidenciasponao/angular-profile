@@ -4,7 +4,7 @@ width: 290px;
 height: 290px;
 }
 .banner{
-background: url(./assets/codding.jpg) no-repeat;
+background: url("./assets/codding.jpg") no-repeat;
 height: 24px;
 font-size: 12px;
 font-weight: bold;
