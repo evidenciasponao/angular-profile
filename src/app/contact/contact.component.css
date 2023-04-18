@@ -5,4 +5,9 @@ height: 290px;
 }
 .banner{
 background: url(assets/codding.jpg) no-repeat;
+height: 24px;
+font-size: 12px;
+font-weight: bold;
+color: White;
+padding: 13px 0 0 20px;
 }
