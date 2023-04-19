@@ -25,3 +25,12 @@ text-align: left;
 background-color: black;
 color: white;    
 }
+
+.future{
+    text-align: right;
+    margin-right: 120px;
+}
+
+.link{
+    color: rgb(255, 255, 255);
+}
