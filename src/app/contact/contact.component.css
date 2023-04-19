@@ -4,8 +4,24 @@ width: 290px;
 height: 290px;
 }
 
-.banner1{
-border-radius: 10%;
-width: 290px;
-height: 490px;
+.container2{
+background-image: url("src/assets/codding.png");
+width: 100%;
+background-repeat: no-repeat, repeat;
+text-align: left;
+background-size: 100%;
+padding: 10%;
+color: rgb(0, 0, 0);
+color: #ffffff;
+text-shadow: 2px 0px 5px rgba(0, 0, 0, 0.8), 
+	  -2px 0px 2px rgba(0, 0, 0, 0.8), 
+	  0px 2px 2px rgba(255, 255, 255, 0.8);
+}
+.h2{
+text-align: left;
+}
+
+.card{
+background-color: black;
+color: white;    
 }
