@@ -28,13 +28,15 @@ color: white;
 
 .future{
     text-align: right;
-    margin-right: 120px;
+padding: 10%;
 }
 .b{
 color: black;
 }
 .foo{
-
 background-color: rgb(255, 255, 255);
 color: rgb(0, 0, 0);
+}
+.link{
+    color: white;
 }
