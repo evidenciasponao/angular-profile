@@ -30,7 +30,11 @@ color: white;
     text-align: right;
     margin-right: 120px;
 }
+.b{
+color: black;
+}
+.foo{
 
-.link{
-    color: rgb(255, 255, 255);
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
 }
